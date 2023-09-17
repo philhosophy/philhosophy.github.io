@@ -1,5 +1,5 @@
 baseurl: "/conflo-blog/" # the subpath of your site, e.g. /blog/
-url: "glios.net" # the base hostname & protocol for your site
+url: "https://glios.net" # the base hostname & protocol for your site
 
 title: ConFlo Blog
 description: >- # this means to ignore newlines until "baseurl:"
